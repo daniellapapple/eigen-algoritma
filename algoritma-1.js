@@ -1,3 +1,5 @@
+// reverse alphabet nya dengan angka tetap diakhir
+
 const string = 'NEGIE1'
 const split = string.split('')
 const reverse = split.reverse()
