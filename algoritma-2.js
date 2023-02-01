@@ -8,4 +8,4 @@ function longest_string(str_ara) {
   return result[0];
 }
 
-console.log(longest_string('saya mencoba untuk membuatnya')) // hasil nya adalah 'membuatnya'.
+console.log(longest_string('saya mencoba untuk membuatnya')) // hasil nya adalah 'membuatnya'..
